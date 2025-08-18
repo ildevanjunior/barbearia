@@ -76,7 +76,7 @@ Este é um projeto de código aberto e, embora esteja em desenvolvimento, sugest
 
 ## 👤 Autor
 
-Desenvolvido por **[ILDEVAN JUNIOR**.
+Desenvolvido por **ILDEVAN JUNIOR**.
 * GitHub: [@ildevanjunior](ttps://github.com/ildevanjunior)
 
 ---
