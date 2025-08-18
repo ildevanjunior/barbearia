@@ -9,7 +9,7 @@
 
 Este projeto é a vitrine digital perfeita para uma barbearia, servindo como um template prático para o desenvolvimento de sites institucionais. Ele foi construído com foco nas tecnologias fundamentais da web: **HTML5** para a estrutura e **CSS3** para a estilização e design.
 
-![Tela inicial do site da barbearia](caminho/para/sua/imagem.png)
+![Tela inicial do site da barbearia](ttps://github.com/ildevanjunior/barbearia)
 
 ---
 
