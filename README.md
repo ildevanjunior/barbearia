@@ -1,6 +1,6 @@
 # 💈 Projeto BarberShop Template
 
-![Status](https://img-shields.io/badge/status-em%20desenvolvimento-yellow)
+
 ![Tecnologia](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Tecnologia](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-blue.svg)
@@ -8,8 +8,6 @@
 > Um template moderno e responsivo para um site de barbearia, criado como parte dos meus estudos em Análise e Desenvolvimento de Sistemas.
 
 Este projeto é a vitrine digital perfeita para uma barbearia, servindo como um template prático para o desenvolvimento de sites institucionais. Ele foi construído com foco nas tecnologias fundamentais da web: **HTML5** para a estrutura e **CSS3** para a estilização e design.
-
-![Tela inicial do site da barbearia](ttps://github.com/ildevanjunior/barbearia)
 
 ---
 
